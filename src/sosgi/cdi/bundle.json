@@ -1,0 +1,13 @@
+{
+    "name":"CDI",
+    "namespace": "sosgi.cdi",
+    "activator":"sosgi.cdi.Activator",
+    "files":[
+        "component.js",
+        "dependency.js",
+        "metadata.js",
+        "register.js",
+        "manager.js",
+        "activator.js"
+    ]
+}
